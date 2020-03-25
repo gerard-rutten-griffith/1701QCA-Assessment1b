@@ -30,7 +30,8 @@ This experiment could be the basis of a real world application such as (insert s
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+# This next image is 5Mb
+![Image](IMG_0214.jpg)
 
 (Insert a caption here)
 
